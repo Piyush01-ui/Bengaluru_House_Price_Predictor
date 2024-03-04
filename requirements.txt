@@ -4,3 +4,5 @@ matplotlib
 seaborn
 sklearn
 pickle
+flask
+pickle-mixin
